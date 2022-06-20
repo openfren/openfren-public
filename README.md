@@ -1,7 +1,11 @@
 # openfren-public
-public assets for openfren
+Public Assets for the openfren project. 
 
-### Crypto
+See: https://openfren.com
+
+### Logos
+
+Below is our logo for PTR.
 
 *Coin Logo*
 
