@@ -1,0 +1,22 @@
+{
+    "name": "Founding Frens Membership Booklet",
+    "symbol": "FFMB",
+    "description": "Membership booklet the founding frens collection. For more information, visit https://foundingfrens.com/",
+    "external_url": "https://foundingfrens.com/",
+    "seller_fee_basis_points": 1000,
+    "image": "https://github.com/openfren/openfren-public/raw/main/nft_booklet/Page_1.jpg",
+    "animation_url": "https://github.com/openfren/openfren-public/raw/main/nft_booklet/membership_pack_1.pdf?ext=html",
+    "attributes": [
+        {"trait_type": "Membership Booklet", "value": "0"},
+    ],
+    "properties": {
+
+        "creators": [
+            {"address": "3iC8Khui5VDDFKA3NE4RdVHVt62m7x1d1ThuRwVhtzit", "share": 100}
+        ],
+        "files": [
+            {"uri": "https://github.com/openfren/openfren-public/raw/main/nft_booklet/Page_1.jpg", "type": "image/jpg"},
+            {"uri": "https://github.com/openfren/openfren-public/raw/main/nft_booklet/membership_pack_1.pdf?ext=html", "type": "html"}],
+        "category": "html"
+    }
+}
